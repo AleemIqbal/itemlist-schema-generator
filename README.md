@@ -1,4 +1,4 @@
-	<h1>Item List Schema Generator</h1>
+<h1>Item List Schema Generator</h1>
 		<p>This is a PHP script that generates a JSON-LD schema for an item list. It takes a list of products and a URL as input, and generates a schema in JSON-LD format.</p>
     <h2>Prerequisites</h2>
 	<ul>
@@ -24,5 +24,4 @@
 	<p>Contributions are welcome! If you find a bug or want to add a feature, please open an issue or submit a pull request.</p>
 	
 	<h2>License</h2>
-	<p>This script is licensed under the MIT License. See the LICENSE file for more information.</p>
-</div>
+<p>This script is licensed under the MIT License. See the LICENSE file for more information.</p>
